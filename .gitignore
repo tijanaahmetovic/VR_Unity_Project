@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#other 
+/Assets/Wispy Sky/Extras
+/Assets/Wispy Sky/Textures/SkyBox02b000[2345]
+/Assets/Wispy Sky/Textures/SkyBox02000[12345]
