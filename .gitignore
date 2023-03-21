@@ -60,6 +60,7 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+!VR_Unity_Project_Diorama_VR.apk
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -75,3 +76,7 @@ crashlytics-build.properties
 /Assets/Wispy Sky/Extras
 /Assets/Wispy Sky/Textures/SkyBox02b000[2345]
 /Assets/Wispy Sky/Textures/SkyBox02000[12345]
+/VR_Unity_Project_BackUpThisFolder_ButDontShipItWithYourGame
+/VR_Unity_Project_BurstDebugInformation_DoNotShip
+/VR_Unity_Project_Diorama_VR_BackUpThisFolder_ButDontShipItWithYourGame
+/VR_Unity_Project_Diorama_VR_BurstDebugInformation_DoNotShip
